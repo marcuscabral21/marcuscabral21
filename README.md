@@ -1,4 +1,6 @@
-### My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal Flag: Portugal on Apple iOS 16.4! 
+### My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal! 
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-cabral-529a61233/)
 
 <!--
 **marcuscabral21/marcuscabral21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
