@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugaa03&layout=compact&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" alt="marcuscabral21's Stats"/>
  
 
- ### Tools 
+  ### Tools 
  
  <div style="display: inline_block">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
