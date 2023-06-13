@@ -1,7 +1,7 @@
 ### My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal! 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-cabral-529a61233/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcusdavicabral2101@gmail.com)
 
 <!--
 **marcuscabral21/marcuscabral21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
