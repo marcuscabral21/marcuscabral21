@@ -22,4 +22,4 @@
 
  ### 👨‍💻 Current IDE
   
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30' />
+  <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white' alt='vsc' height='30' />
