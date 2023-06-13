@@ -1,6 +1,6 @@
 ### My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal! 
 
-[<div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/marcus-cabral-529a61233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marcusdavicabral2101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
