@@ -9,7 +9,8 @@
    <a href=https://github.com/marcuscabral21/marcuscabral21">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugaa03&layout=compact&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" alt="marcuscabral21's Stats"/>
  
- ### 💻Tools 
+
+  ### 💻Tools 
     
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='40' alt="python logo"  />
