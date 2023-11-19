@@ -2,10 +2,10 @@
 
 <div align="center">
  <a href="https://github.com/marcuscabral21/marcuscabral21">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&line_height=20&count_private=true&title_color=1F6FEB&text_color=ffffff&bg_color=1d1f21&border_color=000000" alt="marcuscabral21's"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&line_height=20&count_private=true&title_color=1F6FEB&text_color=ffffff&bg_color=1d1f21&border_color=000000" alt="marcuscabral21's"/>
 </a>
 <a href=https://github.com/marcuscabral21/marcuscabral21">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscabral21&layout=compact&title_color=1F6FEB&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" alt="marcuscabral21's Stats"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscabral21&layout=compact&title_color=1F6FEB&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" alt="marcuscabral21's Stats"/>
 
  ### Tools 
  
