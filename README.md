@@ -1,8 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h1 style="font-size: inherit; margin: 0;">My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal!</h1>
-</div>
-
-
 <div align="center">
  <a href="https://github.com/marcuscabral21/marcuscabral21">
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&line_height=20&count_private=true&title_color=1F6FEB&text_color=ffffff&bg_color=1d1f21&border_color=000000" alt="marcuscabral21's"/>
