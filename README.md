@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <p>My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal!</p>
 </div>
 
