@@ -1,4 +1,4 @@
- My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal! 
+<h1 align="center"> My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal! <h1/>
 
 <div align="center">
  <a href="https://github.com/marcuscabral21/marcuscabral21">
