@@ -1,6 +1,7 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <p>My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal!</p>
+  <h1 style="font-size: inherit; margin: 0;">My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal!</h1>
 </div>
+
 
 <div align="center">
  <a href="https://github.com/marcuscabral21/marcuscabral21">
