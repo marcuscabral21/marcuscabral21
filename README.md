@@ -1,4 +1,4 @@
-<a align="center"> My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal! <a/>
+<a> My name is Marcus Cabral and I'm a software engineering student at UTAD from Vila Real, Portugal! <a/>
 
 <div align="center">
  <a href="https://github.com/marcuscabral21/marcuscabral21">
