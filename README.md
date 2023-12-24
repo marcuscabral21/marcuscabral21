@@ -1,5 +1,5 @@
 <div align="center">
- ## 📊 Stats
+### 📊 Stats
 <div>
  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=e10afd&text_color=d7d7d7&icon_color=e10afd"/>
  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuscabral21&stroke=ffffff&theme=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
