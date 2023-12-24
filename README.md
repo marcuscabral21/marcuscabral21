@@ -1,9 +1,12 @@
 <div align="center">
- <a href="https://github.com/marcuscabral21/marcuscabral21">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&line_height=20&count_private=true&title_color=1F6FEB&text_color=ffffff&bg_color=1d1f21&border_color=000000" alt="marcuscabral21's"/>
-</a>
-<a href=https://github.com/marcuscabral21/marcuscabral21">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscabral21&layout=compact&title_color=1F6FEB&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" alt="marcuscabral21's Stats"/>
+ ## 📊 Stats
+<div>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=e10afd&text_color=d7d7d7&icon_color=e10afd"/>
+ <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuscabral21&stroke=ffffff&theme=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richie735&theme=transparent&hide_border=true&hide_title=true&title_color=ffffff&text_color=ffffff"/>
+</div>
+
+<br />
 
  ### Tools 
  
