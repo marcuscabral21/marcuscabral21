@@ -1,6 +1,6 @@
 ## 📊 Stats
 <div>
- <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=a70ec2&text_color=d7d7d7&icon_color=fdbc0a"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=a70ec2&text_color=d7d7d7&icon_color=a70ec2"/>
  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscabral21&theme=transparent&hide_border=true&hide_title=true&title_color=ffffff&text_color=ffffff"/>
 </div>
 
