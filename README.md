@@ -1,5 +1,5 @@
 <div align="center">
-  ### Stats
+  <h3>Stats</h3>
 <div>
  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=a70ec2&text_color=d7d7d7&icon_color=a70ec2"/>
  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscabral21&theme=transparent&hide_border=true&hide_title=true&title_color=ffffff&text_color=ffffff"/>
@@ -10,7 +10,7 @@
 
 <br />
 
-  ### Tools 
+  <h3>Tools</h3>
  
  <div style="display: inline_block">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -23,7 +23,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
- ### IDE
+ <h3>IDE</h3>
   
   <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='vscode' height='30' />
 <img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white' alt='vs' height='30' />
