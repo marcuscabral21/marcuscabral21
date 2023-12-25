@@ -26,8 +26,8 @@
 
  <div align="center">
    <h3>IDE</h3>
-   <div style="display: inline_block">
-     <img align="center" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
+   <div style="display: inline_block">     
+     <img align="center" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
      <img align="center" alt="visualstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
   <br/>
