@@ -3,11 +3,10 @@
   <div>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=fdbc0a&text_color=d7d7d7&icon_color=fdbc0a"/>
     <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuscabral21&stroke=ffffff&theme=transparent&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-    <br /> <!-- Add this line break -->
+    <br /> 
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscabral21&theme=transparent&hide_border=true&hide_title=true&title_color=ffffff&text_color=ffffff"/>
   </div>
 </div>
-
 <br />
 
 <div align="center">
@@ -29,7 +28,7 @@
    <div style="display: inline_block">     
      <img align="center" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
      <img align="center" alt="visualstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
+  </div>
   <br/>
 
   <div align="center">
