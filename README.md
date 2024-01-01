@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=fdbc0a"/>
+
 <div align="center">
   <h3>Stats</h3>
   <div>
