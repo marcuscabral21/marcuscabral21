@@ -34,9 +34,10 @@
    <div style="display: inline_block">     
      <img align="center" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
      <img align="center" alt="visualstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+     <img align="center" alt="androidstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   </div>
   <br/>
-
+          
   <div align="center">
     <h3>Contacts</h3>
     <a href="https://www.linkedin.com/in/marcus-cabral-529a61233/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='vs' height='30' />
